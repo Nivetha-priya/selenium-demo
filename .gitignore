@@ -1,0 +1,6 @@
+log/
+target/
+.settings/
+.project
+.classpath
+.metadata/
